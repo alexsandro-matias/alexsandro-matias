@@ -13,7 +13,7 @@
 </a>
 
 
-Estou me formando em Bacharelado em Sistemas de Informação na Universidade Federal Rural de Pernambuco. Acredito que o conhecimento deve ser compartilhado de forma gratuita e inclusiva. Desta forma, participei como revisor do Canal chamado [Sempreupdate](https://sempreupdate.com.br)voltado para Software Livre e Linux.  
+Estou me formando em Bacharelado em Sistemas de Informação na Universidade Federal Rural de Pernambuco. Acredito que o conhecimento deve ser compartilhado de forma gratuita e inclusiva. Desta forma, participei como revisor do Canal chamado [Sempreupdate](https://sempreupdate.com.br) voltado para Software Livre e Linux.  
 
 
 I love to share knowledge.
