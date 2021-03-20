@@ -1,9 +1,10 @@
-### Hi there 👋
-
 # [Alexsandro Matias](https://sempreupdate.com.br/author/alexsandro/)
 
 <a href="https://github.com/alexsandro-matias/maratonaJava_DevDojo">
   <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
+</a>
+<a href="https://github.com/alexsandro-matias/introducao-a-programacao-em-C">
+  <img src="http://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=white">
 </a>
 
 
