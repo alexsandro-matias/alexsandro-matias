@@ -3,28 +3,19 @@
 <a href="https://github.com/alexsandro-matias/maratonaJava_DevDojo">
   <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
 </a>
-<a href="https://github.com/alexsandro-matias/introducao-a-programacao-em-C">
+
+<a href="https://github.com/alexsandro-matias/introducao-a-programacao-em-C"> 
   <img src="http://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=white">
 </a>
 
-
-
+<a href="https://github.com/alexsandro-matias/curso-em-video-python">
+  <img src="http://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=white">
+</a>
 
 
 <p>
-I'm a Software Engineer focused on backend development. 
-During my career, I created solutions based on Java, Golang, JavaScript, and Clojure technologies.
+Estou me formando em Bacharelado em Sistemas de Informação na Universidade Federal Rural de Pernambuco. Acredito que o conhecimento deve ser compartilhado de forma gratuita e inclusiva. Desta forma, participei como revisor do Canal chamado [Sempreupdate](https://sempreupdate.com.br/) voltado para Software Livre e Linux.  
 </p>
-
-
-In 2019 I decided to get more involved in the Software Development Community and with two friends, [Caio Everest](https://github.com/caioeverest) and [Fernando Soliva](https://github.com/solivaf), we redesigned the Golang users group in Rio de Janeiro city. 
-The [GopheRio Meetup](https://www.meetup.com/GopheRio/) was a great achievement for us and the developers community in Rio.
-
-<p>
-  Currently, I'm working at <a href="https://www.nubank.com.br">Nubank</a> as a Software Engineer. 
-</p>
-
-<p>
 
 I love to share knowledge.
 And along with the initiative to redesign the Go community in Rio, 
@@ -34,7 +25,6 @@ You can see a part of my material in the links below.
 - [TDC Profile](https://thedevconf.com/palestrante/marco-ollivier) 
 - [Traefik Presentation on InfoQ](https://www.infoq.com/br/presentations/traefik-proxy-poderoso-confiavel-producao/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
 
-</p>
 
 
 [![Github Badge Classes](https://img.shields.io/badge/-Github%20Classes-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexsandro-matias )](https://github.com/alexsandro-matias )
